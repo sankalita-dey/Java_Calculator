@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+
+# Build folders
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
